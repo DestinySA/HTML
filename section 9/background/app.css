@@ -1,0 +1,14 @@
+section {
+    width: 80%;
+    height: 800px;
+    /* background-image: url("https://th.bing.com/th/id/OIP.V_VLssUyV1y-veppWD3qnQHaDt?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-position: top; */
+    background: center/cover url("https://th.bing.com/th/id/OIP.V_VLssUyV1y-veppWD3qnQHaDt?pid=ImgDet&rs=1");
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
